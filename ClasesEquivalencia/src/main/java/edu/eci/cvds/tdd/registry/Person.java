@@ -29,6 +29,7 @@ public class Person {
      */
     public Person() {
         super();
+        alive = true;
     }
     /**
      * A person constructor with all the information
