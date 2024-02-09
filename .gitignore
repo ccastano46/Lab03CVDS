@@ -1,1 +1,3 @@
-/ClasesEquivalencia/nbproject/
+target/
+.idea/
+*.iml
